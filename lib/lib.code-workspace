@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lib",
+			"path": "../../vazifalar/exam_productive/lib"
+		},
+		{
+			"name": "imtihon_productive",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
